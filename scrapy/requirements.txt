@@ -1,0 +1,3 @@
+Scrapy==1.4.0
+scrapy-magicfields==1.1.0
+firebase-admin==2.1.0
